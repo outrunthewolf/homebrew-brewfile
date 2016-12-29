@@ -3,6 +3,7 @@ brew "wget"
 brew "git"
 brew "tig"
 brew "terraform"
+brew "acpica"
 
 # Get cask
 tap "caskroom/cask"
