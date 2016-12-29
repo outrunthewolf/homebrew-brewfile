@@ -2,6 +2,7 @@
 brew "wget"
 brew "git"
 brew "tig"
+brew "terraform"
 
 # Get cask
 tap "caskroom/cask"
@@ -19,4 +20,3 @@ cask "postman"
 cask "iterm2"
 cask "docker-toolbox"
 cask "1password"
-cask "terraform"
