@@ -4,6 +4,7 @@ brew "git"
 brew "tig"
 brew "terraform"
 brew "acpica"
+brew "node"
 
 # Get cask
 tap "caskroom/cask"
@@ -21,3 +22,4 @@ cask "postman"
 cask "iterm2"
 cask "docker-toolbox"
 cask "1password"
+
